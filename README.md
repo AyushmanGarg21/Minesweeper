@@ -1,7 +1,7 @@
 # Minesweeper
-famous Windows game Minesweeper made in android studio using Kotlin
-features -> 
-3 levels - easy, medium, hard
-timer as score
-reset button
-Share your score with friend after a win
+Famous Windows game Minesweeper made in android studio using Kotlin
+Features -> 
+1 -> Three levels - easy, medium, hard
+2 -> Timer as score
+3 -> Reset button
+4 -> Share your score with friend after a win
